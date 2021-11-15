@@ -1,3 +1,6 @@
+"""
+Model definition file template
+"""
 from typing import Any, Dict, Sequence, Tuple, Union, cast
 import os, sys
 
